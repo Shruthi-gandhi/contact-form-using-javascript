@@ -19,6 +19,3 @@ This project demonstrates a responsive contact form with JavaScript-based client
 2. Enable GitHub Pages (main branch, root)
 3. Visit `https://<yourusername>.github.io` to view live
 
----
-
-Made with 💻 for Web Dev Internship Task 6
